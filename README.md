@@ -6,7 +6,7 @@
 I'm currently a student studying Computer Science Technology at Vanier College.
 
 🌱 I’m currently learning Mobile Application Development, System Development, Networking, and Back-end Website Development.
-🔭 [Mobile Application Development Project](/FashionCo)
+🔭 [Mobile Application Development Project](https://github.com/melissaweller/FashionCo)
 
 <!--
 **melissaweller/melissaweller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
