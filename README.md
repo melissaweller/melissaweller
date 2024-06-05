@@ -5,8 +5,15 @@
 # Hi 👋 My name is Melissa Weller 😃
 I'm currently a student studying Computer Science Technology at Vanier College.
 
-🌱 I’m currently learning Mobile Application Development, System Development, Networking, and Back-end Website Development.
-🔭 [Mobile Application Development Project](https://github.com/melissaweller/FashionCo)
+🌱 I’m currently learning Mobile Application Development, System Development, Networking, and Back-end Website Development (eCommerce).
+
+🔭 Some of my projects:
+- [Internet Programming](https://github.com/jaydapizzuco/InternetProject)
+- [Programming Patterns](https://github.com/adinashby-vanier-college/programming-patterns-project-melissaweller)
+- [Mobile Application Development](https://github.com/melissaweller/FashionCo)
+- [eCommerce](https://github.com/jaydapizzuco/Movie-Theatre-Management-System)
+
+📫 How to reach me: melissalaurenweller@hotmail.com
 
 <!--
 **melissaweller/melissaweller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
