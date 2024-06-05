@@ -2,9 +2,11 @@
   <img src="https://github.com/melissaweller/melissaweller/assets/112568989/cc32069a-95c4-4a61-8e32-06b692ba9a0c" width="1000" height="500">
 </p>
 
-🔭 I’m currently learning Mobile Application Development, System Development, Networking, and Back-end Website Development.
+# Hi 👋 My name is Melissa Weller 😃
+I'm currently a student studying Computer Science Technology at Vanier College.
 
-📫 How to reach me: melissalaurenweller@hotmail.com
+🌱 I’m currently learning Mobile Application Development, System Development, Networking, and Back-end Website Development.
+🔭 [Mobile Application Development Project](melissaweller/FashionCo)
 
 <!--
 **melissaweller/melissaweller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +19,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 📫 How to reach me: melissalaurenweller@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
