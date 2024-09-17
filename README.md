@@ -8,11 +8,10 @@
 - 🌱 I’m currently learning **Mobile Application Development, System Development, Networking, and Back-end Website Development**
 
 - 🔭 Some of my projects:
-    - [Internet Programming](https://github.com/jaydapizzuco/InternetProject)
+    - [Internet Programming](https://github.com/melissaweller/InternetProject)
     - [Programming Patterns](https://github.com/adinashby-vanier-college/programming-patterns-project-melissaweller)
     - [Mobile Application Development](https://github.com/melissaweller/FashionCo)
     - [eCommerce](https://github.com/jaydapizzuco/Movie-Theatre-Management-System)
-    - [Web Services](https://github.com/valeriyagergelyuk/ww2-api)
 
 <h3 align="left">📫 How to reach me: melissalaurenweller@hotmail.com</h3>
 <p align="left">
