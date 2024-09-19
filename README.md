@@ -18,14 +18,45 @@
 <p align="left">
 </p>
 
-<p align="center">
+<h1>Technical Skills</h1>
+<h3>Programming, Scripting and Description Languages</h3>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,docker,bootstrap,c,cs&theme=light" />
-    <img src="https://skillicons.dev/icons?i=cpp,css,dart,figma,firebase&theme=light" />
-    <img src="https://skillicons.dev/icons?i=flask,git,github,gitlab,gherkin&theme=light" />
-    <img src="https://skillicons.dev/icons?i=html,java,js,mysql,php&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py,sqlite,sublime,unity,visualstudio&theme=light" />
-    <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,gherkin,html,java,js,php,py&theme=light" />
+  </a>
+</p>
+
+<h3>Operating Systems and Environments</h3>
+<p>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,apple,debian,linux,raspberrypi&theme=light" />
+  </a>
+</p>
+
+<h3>Code Version Managements</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
+  </a>
+</p>
+
+<h3>Database Management Systems</h3>
+<p">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlitefirebase&theme=light" />
+  </a>
+</p>
+
+<h3>IDEs</h3>
+<p">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sublime,visualstudio,vscode,unity,androidstudio&theme=light" />
+  </a>
+</p>
+
+<h3>Tools and Other</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,bootstrap,figma,flask,gitlab,&theme=light" />
   </a>
 </p>
