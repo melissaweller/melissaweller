@@ -22,7 +22,7 @@
 <h3>Programming, Scripting and Description Languages</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,gherkin,html,java,js,php,py&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,flutter,gherkin,html,java,js,php,py&theme=light" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 <h3>Database Management Systems</h3>
 <p">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlitefirebase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&theme=light" />
   </a>
 </p>
 
@@ -57,6 +57,6 @@
 <h3>Tools and Other</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bootstrap,figma,flask,gitlab,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=arduino,docker,bootstrap,figma,flask,gitlab,matlab&theme=light" />
   </a>
 </p>
