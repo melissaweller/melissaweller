@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Melissa Weller</h1>
 <h3 align="center">I'm currently a student studying Computer Science Technology at Vanier College.</h3>
 
-- 🌱 I’m currently learning **Mobile Application Development, System Development, Networking, and Back-end Website Development**
+- 🌱 I’m currently learning **Advanced Networking, Back-end Website Development, Game Programming and Internet of Things**
 
 - 🔭 Some of my projects:
     - [Internet Programming](https://github.com/melissaweller/InternetProject)
